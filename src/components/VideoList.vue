@@ -2,7 +2,7 @@
     <ul class="list-group col-md-4">
    <VideoListItem 
         v-for="s_video in videos" v-bind:sing_vid_obj="s_video" @VideoSelect="clicko">
-    </VideoListItem>
+    </VideoListItem> 
     
    </ul>
     
