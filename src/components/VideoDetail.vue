@@ -3,7 +3,7 @@
 
         <div class="embed-responsive embed-responsive-16by9">
             <iframe  class="embed-responsive-item" v-bind:src="urlgenerator" ></iframe>
-        </div>
+        </div> 
     
         <div class="details">
             <h4>{{toDetail.snippet.title}}</h4>
